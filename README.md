@@ -2,8 +2,6 @@ Welcome to the Student Management System (SMS) – a C program designed to manag
 
 This system was developed by Brendon L. Panlaqui, a first-year BSCS student and leader of the group for final project at City College of Angeles. 
 
-Panlaqui Brendon  |  Manalo Warren  |  David Nikko  |  Naguit Sean Warren  |  Wiyangco Edcel Carlos  |  Zamora Kristine Angela 
-
 REQUIREMENTS: 
 Before running the program, make sure you have the following:
 - MariaDB or MySQL server installed.
