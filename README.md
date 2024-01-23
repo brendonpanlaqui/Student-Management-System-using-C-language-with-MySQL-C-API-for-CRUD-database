@@ -9,3 +9,7 @@ Before running the program, make sure you have the following:
 
 1. Create a database named `group1` in your MariaDB/MySQL server.
 2. Run the program, and it will automatically create the necessary tables (`Students` and `Grades`) if they do not exist.
+
+To compile and run the program using the terminal
+  gcc -o G1sis G1sis.c -L/usr/lib/x86_64-linux-gnu -lmariadb
+  ./G1sis
